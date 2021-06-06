@@ -16,6 +16,18 @@ Setting up an OAuth integration for signin
 
 7. The profile information can be used to either verify them against an existing user in your system or create a new user
 
+# home page api (login without signing)
+![Screenshot from 2021-06-07 00-37-45](https://user-images.githubusercontent.com/24487568/120937075-0a942680-c729-11eb-86d4-80e76d7cd6be.png)
+
+# login api 
+![Screenshot from 2021-06-07 00-37-59](https://user-images.githubusercontent.com/24487568/120937106-2e576c80-c729-11eb-94f2-301b62c7c124.png)
+
+# after successful login 
+![Screenshot from 2021-06-07 00-38-04](https://user-images.githubusercontent.com/24487568/120937124-48914a80-c729-11eb-92cc-dba695d30f54.png)
+
+# logout api
+![Screenshot from 2021-06-07 00-38-13](https://user-images.githubusercontent.com/24487568/120937191-b3db1c80-c729-11eb-8142-9ea17941caf1.png)
+
 ## Eslint and prettier config - With VS Code
 
 This repo follows wes bos eslint and prettier setup [No-Sweat™ Eslint and Prettier Setup](https://github.com/wesbos/eslint-config-wesbos)
